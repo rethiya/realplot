@@ -5,7 +5,7 @@ Solution
 Installation
 
 
-1. Laravel6 new project named as realestate installed using composer.
+1. Laravel6 new project named as realplot installed using composer.
 
 2. Enter your database credentials in your .env file
 
